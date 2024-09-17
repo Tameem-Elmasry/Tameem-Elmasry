@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tameem-Elmasry
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Big Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
